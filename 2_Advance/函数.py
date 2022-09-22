@@ -1,3 +1,11 @@
+'''
+Author: sunshaochen 805960031@qq.com
+Date: 2022-08-24 16:32:04
+LastEditors: sunshaochen 805960031@qq.com
+LastEditTime: 2022-09-20 16:26:27
+FilePath: \learn-python3-the-hard-way\2_Advance\函数.py
+Description: 
+'''
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
     print(f"You have {cheese_count} cheeses!")
     print(f"You have {boxes_of_crackers} boxes of crackers!")
