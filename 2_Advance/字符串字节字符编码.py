@@ -2,8 +2,8 @@
 Author: sunshaochen 805960031@qq.com
 Date: 2022-09-20 11:15:02
 LastEditors: sunshaochen 805960031@qq.com
-LastEditTime: 2022-09-20 15:27:34
-FilePath: \learn-python3-the-hard-way\3_senior\字符串字节字符编码.py
+LastEditTime: 2022-09-22 16:37:12
+FilePath: \learn-python3-the-hard-way\2_Advance\字符串字节字符编码.py
 Description: 主要功能是将文字编码和解码。
 '''
 
@@ -29,4 +29,4 @@ def print_line(line, encoding, errors): # 定义函数
 
 languages = open("languages.txt", encoding="utf-8")  
 
-main(languages, encoding, error)
+main(languages, encoding, error)  # 调用
