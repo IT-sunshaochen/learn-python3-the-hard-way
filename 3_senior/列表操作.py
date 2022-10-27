@@ -1,7 +1,7 @@
 '''
 Date: 2022-10-27 21:23:05
 LastEditors: sunshaochen 805960031@qq.com
-LastEditTime: 2022-10-27 21:23:12
+LastEditTime: 2022-10-27 21:23:27
 FilePath: \learn-python3-the-hard-way\3_senior\列表操作.py
 '''
 ten_things = "Apples Oranges Crows Telephone Light Sugar" 
